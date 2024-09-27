@@ -70,7 +70,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: 91HvRuveNG2jDveBzErabW5KkBuuKAdDt55h_dnW # fill in your Cloudflare Web Analytics token
   fathom:
     id: # fill in your Fathom Site ID
 
@@ -120,9 +120,9 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
+    repo: cleone-id/blog-cleone # <gh-username>/<repo>
+    repo_id: 851968724
+    category: General
     category_id:
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
