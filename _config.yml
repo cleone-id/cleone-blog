@@ -121,7 +121,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: cleone-id/blog-cleone # <gh-username>/<repo>
-    repo_id: 851968724
+    repo_id: R_kgDOMsgC1A
     category: General
     category_id: DIC_kwDOMsgC1M4Ci1u-
     mapping: # optional, default to 'pathname'
