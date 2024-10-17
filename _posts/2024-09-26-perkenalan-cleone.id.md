@@ -4,10 +4,13 @@ description: >-
   Cleone.ID adalah komunitas daring Indonesia berbasis Discord.
   Tempat untuk berteman, berkumpul, dan berdiskusi tentang berbagai topik, terutama yang terkait dengan hobi dan gaming.
 date: 2024-10-17 09:25:24 +0700
-categories: [intro, tentang]
+categories: [Intro]
 tags: [intro]
 authors: mahaputera
 pin: true
+image:
+  path: /images/intro/banner.webp
+  alt: Unity, Family, Glory
 ---
 
 [//]: # (## Tentang Cleone.ID)
