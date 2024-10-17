@@ -7,6 +7,8 @@ if ('serviceWorker' in navigator) {
     const notification = document.getElementById('notification');
     const btnRefresh = notification.querySelector('.toast-body>button');
     const popupWindow = Toast.getOrCreateInstance(notification);
+    console.log(swUrl);
+    console.log('test');
 
     navigator.serviceWorker.register(swUrl).then((registration) => {
       // In case the user ignores the notification
