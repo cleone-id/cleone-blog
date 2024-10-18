@@ -1,5 +1,7 @@
 ---
 title: Laragon, Aplikasi Web Server Lokal Powerful
+description: >-
+  Laragon, aplikasi web server lokal yang ringan, cepat, dan powerful
 date: 2024-10-18 10:37:24 +0700
 categories: [IT, Programmer]
 tags: [it, programmer, komputer, dev, php]
@@ -35,7 +37,6 @@ Untuk mendownload Laragon, bisa langsung ke website officialnya di: [**DOWNLOAD 
 
 ### Instalasi Laragon
 
-![Install Laragon](/posts/20241018/install_laragon.png){: width="494" height="383" .w-50 .left}
 Setelah download versi installer Laragon, silahkan lakukan instalasi. Pada halaman berikut pilih folder tempat dimana akan menyimpan aplikasi dan file Laragon.
 Jika sudah kemudian ke tahap selanjutnya yaitu konfigurasi tambahan.
 ![Install Laragon](/posts/20241018/install_laragon2.png){: width="493" height="385" .w-50 .left}
