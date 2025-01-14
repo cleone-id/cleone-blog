@@ -13,6 +13,9 @@ image:
   alt: Unity, Family, Glory
 ---
 
+[//]: # (## Tentang Cleone.ID)
+[//]: # (Cleone.ID adalah komunitas daring Indonesia berbasis Discord yang berfokus sebagai tempat untuk berteman, berkumpul, dan berdiskusi tentang berbagai topik, terutama yang terkait dengan hobi dan gaming.)
+
 ### Sejarah
 Berawal dari perkumpulan gamer kampus, Cleone.ID tumbuh menjadi komunitas daring yang mampu menjangkau lebih banyak gamer dari seluruh penjuru Indonesia. Komunitas ini secara resmi didirikan pada 14 Juni 2021.
 
