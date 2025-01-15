@@ -7,7 +7,7 @@ categories: [IT, Programmer]
 tags: [it, programmer, komputer, dev, php]
 authors: mahaputera
 image:
-  path: /images/programmer/laragon.png
+  path: /images/programmer/laragon.webp
   alt: Laragon
 ---
 
