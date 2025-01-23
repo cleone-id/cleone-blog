@@ -6,8 +6,6 @@ tags: [puisi]
 authors: zyura
 ---
 
-# Senyap yang Berbisik
-
 Di antara barisan upacara pagi  
 Kulihat mentari dalam bingkai kacamatamu  
 Prestasimu mengundang decak kagumi  
