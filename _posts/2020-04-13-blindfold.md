@@ -3,7 +3,7 @@ title: "Blindfold"
 date: 2020-04-13 01:40:00 +0000
 categories: [Puisi]
 tags: [puisi, english]
-authors: 'Mahaputera'
+authors: mahaputera
 ---
 I can see the future,  
 whether true or not,  

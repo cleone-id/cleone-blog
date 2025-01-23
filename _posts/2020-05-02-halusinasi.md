@@ -3,7 +3,7 @@ title:  "Halusinasi"
 date:   2020-05-02 19:29 +0000
 categories: [Puisi]
 tags: [puisi]
-authors: 'Mahaputera'
+authors: mahaputera
 ---
 
 Ada rindu yang tak tersampaikan,  

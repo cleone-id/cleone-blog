@@ -3,7 +3,7 @@ title: "Malam & Hujan"
 date: 2020-04-23 09:00:00 +0000
 categories: [Puisi]
 tags: [puisi]
-authors: 'Mahaputera'
+authors: mahaputera
 ---
 huruf dirangkai menjadi kata.  
 kemudian ku rajut menjadi untaian kalimat.

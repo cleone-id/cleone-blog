@@ -3,7 +3,7 @@ title: "Elemental Chronicle"
 date: 2020-04-15 00:42:00 +0000
 categories: [Random]
 tags: [random,english]
-authors: 'Mahaputera'
+authors: mahaputera
 ---
 Every entity in this world is connected. All have a law of karma, but the story will never end. This is from insight of true sight, walking across the dimensions of space and time.  
 

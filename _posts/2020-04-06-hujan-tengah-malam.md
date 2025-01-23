@@ -3,7 +3,7 @@ title: Hujan Tengah Malam
 date: 2020-04-06 01:00:00 +0000
 categories: [Puisi]
 tags: [puisi]
-authors: 'Mahaputera'
+authors: mahaputera
 ---
 
 Malam tersiram derasnya sunyi,  

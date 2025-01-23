@@ -3,7 +3,7 @@ title: "Pajaratan"
 date: 2020-04-13 01:24:00 +0000
 categories: [Puisi]
 tags: [puisi, sunda]
-authors: 'Mahaputera'
+authors: mahaputera
 ---
 Aya waktos patepang sareng kalanggengan,  
 Dianteur ku boeh, pasaran, sareng runtuyan dua,  

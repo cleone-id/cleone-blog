@@ -3,7 +3,7 @@ title:  "Penjelajah Waktu"
 date: 2020-04-06 01:00:00 +0000
 categories: [Puisi]
 tags: [puisi]
-authors: 'Mahaputera'
+authors: mahaputera
 ---
 Jauh ku melangkah mengikuti rel sukma,  
 Menerjang badai emosi jiwa,  

@@ -3,7 +3,7 @@ title: "Menunggu Akhir"
 date: 2020-05-08 18:34 +0000
 categories: [Puisi]
 tags: [puisi]
-authors: 'Mahaputera'
+authors: mahaputera
 ---
 
 Wajah wajah tanpa dosa,  

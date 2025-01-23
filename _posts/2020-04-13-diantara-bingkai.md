@@ -3,7 +3,7 @@ title: "Diantara Bingkai"
 date: 2020-04-13 01:24:00 +0000
 categories: [Puisi]
 tags: [puisi]
-authors: 'Mahaputera'
+authors: mahaputera
 ---
 Tertunduk diantara kekosongan,  
 Tanpa setetes tinta pada ruang, 
