@@ -3,7 +3,7 @@ title: Senyap yang Berbisik
 date: 2024-10-17 10:38:24 +0700
 categories: [Puisi]
 tags: [puisi]
-authors: zyura.
+authors: zyura
 ---
 
 Di antara barisan upacara pagi 
