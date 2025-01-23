@@ -1,6 +1,6 @@
 ---
 title: Senyap yang Berbisik
-date: 2024-10-17 10:38:24 +0700
+date: 2025-01-22 10:00:24 +0700
 categories: [Puisi]
 tags: [puisi]
 authors: zyura
